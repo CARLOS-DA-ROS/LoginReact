@@ -1,3 +1,1 @@
-# Sencillo Login 
-# con Typescript,
-# Express, MongoDB y React
+# Login con Typescript, Express, MongoDB y React
